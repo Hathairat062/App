@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">MyTest</string>
+    <string-array name="learn_names">
+        <item>Number</item>
+        <item>Times and Date</item>
+        <item>Greeting</item>
+        <item>General Conversation</item>
+        <item>Direction and Place</item>
+        <item>Transportation</item>
+        <item>Accommodation</item>
+        <item>Emergency</item>
+        <item>Shopping</item>
+        <item>Occasion Phrases</item>
+    </string-array>
+
+    <array name="learn_pics">
+        <item>@drawable/num</item>
+        <item>@drawable/times</item>
+        <item>@drawable/greet</item>
+        <item>@drawable/c</item>
+        <item>@drawable/direc</item>
+        <item>@drawable/tran</item>
+        <item>@drawable/accom</item>
+        <item>@drawable/emer</item>
+        <item>@drawable/shop</item>
+        <item>@drawable/occa</item>
+
+    </array>
+</resources>
